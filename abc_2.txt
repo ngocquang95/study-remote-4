@@ -4,14 +4,10 @@ sdf
 this is file abc_2.txt
 sdf
 222222222222
-dsf
-sdf
-1111111111111
-ádasdasdsdf
-ádsadád
+dsfs
+áds
 ád
-ád
-ád
+s
 ád
 1
 21
